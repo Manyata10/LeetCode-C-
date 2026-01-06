@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Manyata10/LeetCode-C-/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
