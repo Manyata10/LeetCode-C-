@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Manyata10/LeetCode-C-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Manyata10/LeetCode-C-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Manyata10/LeetCode-C-/tree/master/1683-invalid-tweets) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
