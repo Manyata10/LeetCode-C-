@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Manyata10/LeetCode-C-/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Database
 |  |
 | ------- |
