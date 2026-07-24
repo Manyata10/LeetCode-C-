@@ -11,18 +11,24 @@ public:
         //     temp[(i+k)%n]=nums[i];
         // }
         // nums=temp;
-        ///OPTIMAL APPROACH
+        ///BETTER APPROACH
+
         d = d % n;
 
-        vector<int> temp(d);
-        for(int i=n-d; i<n; i++){ //suppose d = 3; 
-            temp[i-(n-d)]=arr[i];  //stored 0 to 2 index elements = 3
-        }                     //so start from index 3 (4th element)
-        for(int i=n-d-1; i>=0; i--){
-            arr[i+d]=arr[i];
-        }
-        for(int i=0;i<d;i++){
-            arr[i]=temp[i];
-        }
+        // vector<int> temp(d);
+        // for(int i=n-d; i<n; i++){ //suppose d = 3; 
+        //     temp[i-(n-d)]=arr[i];  //stored 0 to 2 index elements = 3
+        // }                     //so start from index 3 (4th element)
+        // for(int i=n-d-1; i>=0; i--){
+        //     arr[i+d]=arr[i];
+        // }
+        // for(int i=0;i<d;i++){
+        //     arr[i]=temp[i];
+        // }
+
+        //OPTIMAL APPROACH
+        reverse(arr.end()-d, arr.end());
+        reverse(arr.begin(), arr.end()-d);
+        reverse(arr.begin(), arr.end());
     }
 };
