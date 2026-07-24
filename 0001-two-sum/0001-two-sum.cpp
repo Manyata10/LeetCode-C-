@@ -11,6 +11,6 @@ public:
             }
             mpp[nums[i]]=i;
         }
-        return {NULL, NULL};
+        return {};
     }
 };
