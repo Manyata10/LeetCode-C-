@@ -5,12 +5,11 @@ public:
         //Better-Hashing
         map<int, int> mpp;
         for(int i=0;i<nums.size();i++){
-            int a = nums[i];
-            int b = target-a;;
-            if(mpp.find(b)!=mpp.end()){
-                return {i, mpp.find(b)->second};
+            int diff = target - nums[i];
+            if(mpp.find(diff)!=mpp.end()){
+                return {i, mpp[diff]};
             }
-            mpp[a]=i;
+            mpp[nums[i]]=i;
         }
         return {NULL, NULL};
     }
