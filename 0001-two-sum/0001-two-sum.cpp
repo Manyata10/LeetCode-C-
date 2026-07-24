@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         //Brute Force
-        //Better-Hashing
-        map<int, int> mpp;
+        //Better-Hashing O(N)
+        unordered_map<int, int> mpp;
         for(int i=0;i<nums.size();i++){
             int diff = target - nums[i];
             if(mpp.find(diff)!=mpp.end()){
