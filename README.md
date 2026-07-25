@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Manyata10/LeetCode-C-/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manyata10/LeetCode-C-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manyata10/LeetCode-C-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
