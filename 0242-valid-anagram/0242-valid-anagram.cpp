@@ -5,14 +5,14 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        for(int i=0;i<s.length();i++){
-            freq[s[i]-'a']++;
+        for(char c : s){
+            freq[c -'a']++;
         }
-        for(int i=0; i<t.length();i++){
-            freq[t[i]-'a']--;
+        for(char c : t){
+            freq[c-'a']--;
         }
-        for(int i=0;i<26;i++){
-            if(freq[i]!=0){
+        for(int i : freq){
+            if(i!=0){
                 return false;
             }
         }
