@@ -18,43 +18,69 @@ public:
         // }
         // return result;
 
-        // Result string to store final output
-        string result = "";
-        
-        // Pointer starting from the last character
-        int i = s.size() - 1;
-        
-        // Traverse string from right to left
-        while (i >= 0) {
-            // Skip spaces at the current position
-            while (i >= 0 && s[i] == ' ') {
-                i--;
-            }
-            
-            // If pointer is out of bounds, break
-            if (i < 0) break;
-            
-            // Mark the end of the current word
-            int end = i;
-            
-            // Move left until a space or start of string is found
-            while (i >= 0 && s[i] != ' ') {
-                i--;
-            }
-            
-            // Extract the current word
-            string word = s.substr(i + 1, end - i);
-            
-            // Add space before appending next word if result is not empty
-            if (!result.empty()) {
-                result += " ";
-            }
-            
-            // Append the word to the result
-            result += word;
-        }
-        
-        return result;
 
+        // // Result string to store final output
+        // string result = "";
+        
+        // // Pointer starting from the last character
+        // int i = s.size() - 1;
+        
+        // // Traverse string from right to left
+        // while (i >= 0) {
+        //     // Skip spaces at the current position
+        //     while (i >= 0 && s[i] == ' ') {
+        //         i--;
+        //     }
+            
+        //     // If pointer is out of bounds, break
+        //     if (i < 0) break;
+            
+        //     // Mark the end of the current word
+        //     int end = i;
+            
+        //     // Move left until a space or start of string is found
+        //     while (i >= 0 && s[i] != ' ') {
+        //         i--;
+        //     }
+            
+        //     // Extract the current word
+        //     string word = s.substr(i + 1, end - i);
+            
+        //     // Add space before appending next word if result is not empty
+        //     if (!result.empty()) {
+        //         result += " ";
+        //     }
+            
+        //     // Append the word to the result
+        //     result += word;
+        // }
+        
+        // return result;
+
+        reverse(s.begin(), s.end());
+        //the whole string is reversed
+
+        int i = 0, l = 0, r = 0;
+        //2 pointers and iterator i
+
+        while( i < s.size()){
+            while(i<s.size() && s[i] == ' '){
+                i++;
+            }
+            if(i==s.size()){
+                break;
+            }
+            if(l != 0){
+                s[l++] = ' ';
+            }
+            //Mark beginning of current word
+            r=l;
+            while(i < s.size() && s[i] != ' '){
+                s[l++] = s[i++];
+            }
+            reverse(s.begin() + r, s.begin() + l);
+        }
+        s.resize(l);
+        return s;
     }
 };
