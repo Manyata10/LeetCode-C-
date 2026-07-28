@@ -1,24 +1,38 @@
 class Solution {
 public:
-    bool binarySearch(vector<int> &arr, int target){
-        int left =0, right = arr.size()-1;
-        while(left<=right){
-            int mid = (left+right) / 2;
-            if(arr[mid] == target) return true;
-            else if(arr[mid] < target) left = mid+1;
-            else right = mid-1;
-        }
-        return false;
-    }
+    // bool binarySearch(vector<int> &arr, int target){
+    //     int left =0, right = arr.size()-1;
+    //     while(left<=right){
+    //         int mid = (left+right) / 2;
+    //         if(arr[mid] == target) return true;
+    //         else if(arr[mid] < target) left = mid+1;
+    //         else right = mid-1;
+    //     }
+    //     return false;
+    // }
+    // vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+    //     if(nums1.size() > nums2.size()) swap(nums1, nums2);
+    //     sort(nums1.begin(), nums1.end());
+    //     unordered_set<int> result;
+    //     for(int num :nums2){
+    //         if(binarySearch(nums1, num)){
+    //             result.insert(num);
+    //         }
+    //     }
+    //     return vector<int>(result.begin(), result.end());
+    // }
+
+    //using hashing - hashset
+
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        if(nums1.size() > nums2.size()) swap(nums1, nums2);
-        sort(nums1.begin(), nums1.end());
+        unordered_set<int> set1(nums1.begin(), nums1.end());
         unordered_set<int> result;
-        for(int num :nums2){
-            if(binarySearch(nums1, num)){
+        for(int num : nums2){
+            if(set1.contains(num)){
                 result.insert(num);
             }
         }
-        return vector<int>(result.begin(), result.end());
+        return vector<int>(result.begin(), result.end()); 
     }
+
 };
