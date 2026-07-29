@@ -6,8 +6,8 @@ public:
 
         for(int i=0;i<k; i++) currSum+=nums[i];
         maxSum = currSum;
-        for(int i = 1; i<=nums.size()-k; i++){
-            currSum=currSum - nums[i-1] + nums[i+k-1];
+        for(int i = k; i<nums.size(); i++){
+            currSum=currSum - nums[i-k] + nums[i];
             maxSum = max(currSum, maxSum);
         }
         return maxSum/k;
