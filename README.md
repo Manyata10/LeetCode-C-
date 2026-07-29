@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manyata10/LeetCode-C-/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Manyata10/LeetCode-C-/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
