@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manyata10/LeetCode-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
