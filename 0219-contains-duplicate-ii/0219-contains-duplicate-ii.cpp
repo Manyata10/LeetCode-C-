@@ -4,8 +4,10 @@ public:
         unordered_map<int, int> numIndex;
 
         for(int i=0; i<nums.size(); i++){
-            if(numIndex.count(nums[i]) && i - numIndex[nums[i]] <= k){
-                return true;
+            if(numIndex.count(nums[i])){
+                if(abs(i - numIndex[nums[i]]) <= k){
+                    return true;
+                }
             }
             numIndex[nums[i]] = i;
         }
