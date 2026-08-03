@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manyata10/LeetCode-C-/tree/master/0053-maximum-subarray) |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -152,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0496-next-greater-element-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
