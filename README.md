@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manyata10/LeetCode-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Manyata10/LeetCode-C-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Manyata10/LeetCode-C-/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manyata10/LeetCode-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Manyata10/LeetCode-C-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
