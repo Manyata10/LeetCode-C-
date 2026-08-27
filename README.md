@@ -176,9 +176,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyata10/LeetCode-C-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyata10/LeetCode-C-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
