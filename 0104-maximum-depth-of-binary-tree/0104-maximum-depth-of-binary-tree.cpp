@@ -11,17 +11,6 @@
  */
 class Solution {
 public:
-    // int findDepth(int depth, TreeNode* root){
-    //     if(root == NULL){
-    //         return 0;
-    //     }
-    //     int maxDepth=0;
-    //     maxDepth=maxDepth<depth?depth:maxDepth;
-    //     int left = findDepth(depth++, root->left);
-    //     int right = findDepth(depth++, root->right);
-    //     return 1 + max(left, right)+1;
-    // }
-// dfsHelper(TreeNode* u, )
     int maxDepth(TreeNode* root) {
         if(root == NULL){
             return 0;
