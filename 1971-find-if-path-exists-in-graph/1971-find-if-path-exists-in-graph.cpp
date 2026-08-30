@@ -9,7 +9,7 @@ public:
     //     }
     // }
     bool dfs(int n, vector<vector<int>>& adj, int src, int dest, vector<bool>& vis){
-
+        if(src == dest) return true;
         vis[src]=true;
         for(int v:adj[src]){
             if(v==dest){
@@ -36,9 +36,6 @@ public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         vector<bool> vis(n, false);
         vector<vector<int>> adj(n);
-        if(edges.size()==0){
-            return true;
-        }
         for(auto edge : edges) {
             int u = edge[0];
             int v = edge[1];
