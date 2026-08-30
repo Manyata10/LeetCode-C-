@@ -10,9 +10,10 @@ public:
             image[r][c] = color;
         }
         dfs(image, r-1, c, originalColor, color);
+        dfs(image, r, c+1, originalColor, color);
         dfs(image, r+1, c, originalColor, color);
         dfs(image, r, c-1, originalColor, color);
-        dfs(image, r, c+1, originalColor, color);
+ 
         return;
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
