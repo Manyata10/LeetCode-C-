@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(int n, vector<vector<int>>& adj, int src, int dest, vector<bool>& vis){
+    bool dfs(vector<vector<int>>& adj, int src, int dest, vector<bool>& vis){
         if(src == dest) return true;
         vis[src]=true;
         for(int v:adj[src]){
@@ -8,7 +8,7 @@ public:
                     return true;
             }
             if(!vis[v]){
-                if(dfs(n, adj, v, dest, vis)){
+                if(dfs(adj, v, dest, vis)){
                     return true;
                 }
             }
@@ -25,6 +25,6 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        return dfs(n, adj, source, destination, vis);
+        return dfs(adj, source, destination, vis);
     }
 };
