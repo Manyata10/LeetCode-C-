@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,8 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
