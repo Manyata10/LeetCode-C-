@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Manyata10/LeetCode-C-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manyata10/LeetCode-C-/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Manyata10/LeetCode-C-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Manyata10/LeetCode-C-/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -225,9 +227,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Manyata10/LeetCode-C-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Manyata10/LeetCode-C-/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manyata10/LeetCode-C-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
