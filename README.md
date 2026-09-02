@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Manyata10/LeetCode-C-/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Manyata10/LeetCode-C-/tree/master/0994-rotting-oranges) |
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Manyata10/LeetCode-C-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Manyata10/LeetCode-C-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/Manyata10/LeetCode-C-/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
