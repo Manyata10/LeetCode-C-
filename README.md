@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manyata10/LeetCode-C-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## String
