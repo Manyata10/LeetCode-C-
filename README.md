@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Manyata10/LeetCode-C-/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Manyata10/LeetCode-C-/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Manyata10/LeetCode-C-/tree/master/0994-rotting-oranges) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0746-min-cost-climbing-stairs) |
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## String
 |  |
