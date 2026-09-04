@@ -1,6 +1,7 @@
 class Solution {
 public:
 
+
     int solve(int n, vector<int> &nums, int curr, int prev){
         if(curr==n){
             return 0;
@@ -30,19 +31,26 @@ public:
     }
 
     int solveTab(int n, vector<int> &nums){
-        vector<vector<int>> dp(n+1, vector<int>(n+1,0));
+        // vector<vector<int>> dp(n+1, vector<int>(n+1,0));
+
+        vector<int> currRow(n+1, 0);
+        vector<int> nextRow (n+1,0);
+
+
+
         for(int curr=n-1; curr >=0; curr--){
             for(int prev = curr-1; prev>=-1; prev--){
                 int take = 0;
                 if(prev == -1 || nums[curr] > nums[prev]){
-                    take = 1 + dp[curr+1][curr+1];
+                    take = 1 + nextRow[curr+1];
                 }
-                int notTake = 0 + dp[curr+1][prev+1];
+                int notTake = 0 + nextRow[prev+1];
 
-                dp[curr][prev+1] = max(take, notTake);
+                currRow[prev+1] = max(take, notTake);
             }
-        }
-        return dp[0][0];
+            nextRow = currRow;
+         }
+        return nextRow[0];
     }
 
     int lengthOfLIS(vector<int>& nums) {
