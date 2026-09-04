@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/Manyata10/LeetCode-C-/tree/master/0455-assign-cookies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0746-min-cost-climbing-stairs) |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
