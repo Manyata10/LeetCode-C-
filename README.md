@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## String
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manyata10/LeetCode-C-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manyata10/LeetCode-C-/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manyata10/LeetCode-C-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
