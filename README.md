@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/Manyata10/LeetCode-C-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Manyata10/LeetCode-C-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
+| [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 ## Database
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Manyata10/LeetCode-C-/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0746-min-cost-climbing-stairs) |
@@ -292,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
