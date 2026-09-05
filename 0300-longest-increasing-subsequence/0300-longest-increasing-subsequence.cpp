@@ -53,6 +53,19 @@ public:
         return nextRow[0];
     }
 
+    // solveOptimal(int n, vector<int> nums){
+    //     if(n==0){
+    //         return 0;
+    //     }
+    //     vector<int> ans;
+    //     ans.push_back(nums[0]);
+
+    //     for(int i=1;i<n;i++){
+    //         if()
+    //     }
+
+    // }
+
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         // return solve(n,nums, 0, -1);
