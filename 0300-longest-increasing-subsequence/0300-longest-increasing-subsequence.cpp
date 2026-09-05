@@ -53,18 +53,24 @@ public:
         return nextRow[0];
     }
 
-    // solveOptimal(int n, vector<int> nums){
-    //     if(n==0){
-    //         return 0;
-    //     }
-    //     vector<int> ans;
-    //     ans.push_back(nums[0]);
+    int solveOptimal(int n, vector<int> nums){
+        if(n==0){
+            return 0;
+        }
+        vector<int> ans;
+        ans.push_back(nums[0]);
 
-    //     for(int i=1;i<n;i++){
-    //         if()
-    //     }
-
-    // }
+        for(int i=1;i<n;i++){
+            if(nums[i]>ans.back()){
+                ans.push_back(nums[i]);
+            }
+            else{
+                int index = lower_bound(ans.begin(), ans.end(), nums[i])-ans.begin();
+                ans[index] = nums[i];
+            }
+        }
+        return ans.size();
+    }
 
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
@@ -72,6 +78,7 @@ public:
         // vector<vector<int>> dp(n, vector<int>(n+1, -1)); //curr : 0 -> n-1, prev : -1 -> n-1
         // solveMem(n, nums, 0, -1, dp);
 
-        return solveTab(n, nums);
+        // return solveTab(n, nums);
+        return solveOptimal(n, nums);
     }
 };
