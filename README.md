@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manyata10/LeetCode-C-/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manyata10/LeetCode-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Manyata10/LeetCode-C-/tree/master/0496-next-greater-element-i) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Manyata10/LeetCode-C-/tree/master/0455-assign-cookies) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Manyata10/LeetCode-C-/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
@@ -298,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Manyata10/LeetCode-C-/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Manyata10/LeetCode-C-/tree/master/0354-russian-doll-envelopes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
