@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manyata10/LeetCode-C-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyata10/LeetCode-C-/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyata10/LeetCode-C-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manyata10/LeetCode-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manyata10/LeetCode-C-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manyata10/LeetCode-C-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Manyata10/LeetCode-C-/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manyata10/LeetCode-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0213-house-robber-ii) |
