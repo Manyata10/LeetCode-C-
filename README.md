@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manyata10/LeetCode-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manyata10/LeetCode-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manyata10/LeetCode-C-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manyata10/LeetCode-C-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Manyata10/LeetCode-C-/tree/master/0200-number-of-islands) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyata10/LeetCode-C-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Manyata10/LeetCode-C-/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Manyata10/LeetCode-C-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manyata10/LeetCode-C-/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Manyata10/LeetCode-C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manyata10/LeetCode-C-/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Manyata10/LeetCode-C-/tree/master/0621-task-scheduler) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Manyata10/LeetCode-C-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manyata10/LeetCode-C-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manyata10/LeetCode-C-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manyata10/LeetCode-C-/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manyata10/LeetCode-C-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
