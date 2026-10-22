@@ -1,18 +1,16 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int freq[26] = {0};
-        if(s.length()!=t.length()){
+        if(s.length() != t.length()){
             return false;
         }
-        for(char c : s){
-            freq[c -'a']++;
+        int count[26] = {0};
+        for(int i=0; i<s.length(); i++){
+            count[s[i]-'a']++;
+            count[t[i]-'a']--;
         }
-        for(char c : t){
-            freq[c-'a']--;
-        }
-        for(int i : freq){
-            if(i!=0){
+        for(int i=0;i<26;i++){
+            if(count[i]!=0){
                 return false;
             }
         }
